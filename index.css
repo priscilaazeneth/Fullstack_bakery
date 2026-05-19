@@ -1,0 +1,63 @@
+body{
+    background-color;
+    display:flex;
+    flex-direction:column;
+}
+Header{
+    display:flex;
+    margin-bottom:30px;
+    color:Red;
+    justify-content:space-between;
+    align-items:center;
+}
+
+nav{
+    display:flex;
+    justify-content:flex-end;
+    align-items:center;
+    gap:20px;
+    color:green;
+}
+main{
+    display:flex;
+    row-gap:5px;
+}
+
+ul{
+    list-style:none;
+    background-color: white;
+    color:white;
+    border:
+
+}
+li{
+    border-width: 5ch;
+    font-size: 16pt;
+    gap:5px;
+    margin-bottom:10px;
+    border:2px solid white;
+    padding:5px 10px;
+    Background-color:red;
+    align-items:flex-end;
+    justify-content:flex-start;
+    margin-right:40px;
+}
+Footer{
+    display:flex;
+    color: white;
+    background-color:black;
+    align-items:center;
+    justify-content:center;
+    margin-top:20px;
+}
+.brand{
+    font-size:3rem;
+    font-size:bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-family: ;
+}
+.testimonial{
+    background-color:green;
+    color:white;
+
+}
